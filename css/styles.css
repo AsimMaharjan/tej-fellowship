@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    padding: 25px;
+    margin-left: 450px;
+}
+h1{
+    color: red;
+}
+
+input{
+    width: 40px;
+}
+
+input, button {
+    display: inline-block;
+}
